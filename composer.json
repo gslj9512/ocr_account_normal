@@ -1,0 +1,22 @@
+{
+    "name": "gslj/ocr_account_normal",
+    "description": "account book ocr text spot",
+    "type": "composer-plugin",
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "doctrine/cache": "^1.6",
+        "ext-json": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "guoshuai",
+            "email": "gs19951211@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Ocr\\":"src"
+        }
+    }
+}
