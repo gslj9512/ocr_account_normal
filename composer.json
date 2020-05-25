@@ -4,8 +4,7 @@
     "type": "composer-plugin",
     "require": {
         "guzzlehttp/guzzle": "^6.5",
-        "doctrine/cache": "^1.6",
-        "ext-json": "*"
+        "doctrine/cache": "^1.6"
     },
     "license": "MIT",
     "authors": [
