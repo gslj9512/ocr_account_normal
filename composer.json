@@ -1,7 +1,7 @@
 {
     "name": "gslj/ocr_account_normal",
     "description": "account book ocr text spot",
-    "type": "composer-plugin",
+    "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^6.5",
         "doctrine/cache": "^1.6"
