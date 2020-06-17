@@ -13,7 +13,7 @@ class Http
     function __construct()
     {
         $this->client = new Client([
-            'timeout'  => 10.0,
+            'timeout'  => 11.0,
         ]);
     }
 
